@@ -1,5 +1,5 @@
-# LIBFT
-Programar en C puedeser aburrido cuando uno no tiene acceso a las funciones comunes
-más utilizadas. Este proyecto te permite entender la forma en la que estas funciones
-funcionan, cómo implementarlas y aprender a utilizarlas. Crear una librería propia, que
-será muy útil ya que la utilizarás en los siguientes proyectos de C.
+# **Libft** 🛠️
+
+Programar en C puede ser aburrido cuando no se tiene acceso a las funciones comunes más utilizadas. Este proyecto busca solucionar este problema al permitirte programar tus propias implementaciones de funciones estándar y aprender cómo funcionan desde cero.
+
+Con **Libft**, crearás tu propia librería en C que te será útil no solo para este proyecto, sino también para los muchos desafíos futuros en tu cursus en la escuela 42. Este proyecto te ayudará a comprender la implementación de funciones estándar, a manejarlas correctamente y a desarrollar un recurso valioso que podrás enriquecer a medida que avances en tu formación.
